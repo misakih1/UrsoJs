@@ -1,0 +1,19 @@
+#img-urso{
+    width: 150px;
+}
+.volta{
+    -webkit-transform: scaleX(-1);
+    -moz-transform: scaleX(-1);
+    -ms-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    transform: scaleX(-1);
+}
+#escada-urso{
+    position: relative;
+}
+#img-urso-escada{
+    position: absolute;
+    top: 232px;
+    left: 116px;
+    width: 50px;
+}
